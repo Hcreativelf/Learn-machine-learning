@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+.venv-wsl/
+
+# 数据与输出
+data/*.csv
+submission.csv
+figures/
+
+# 系统
+Thumbs.db
+.DS_Store
