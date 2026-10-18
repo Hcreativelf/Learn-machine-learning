@@ -6,11 +6,18 @@ __pycache__/
 .venv/
 .venv-wsl/
 
+# 生成物
+catboost_info/
+__pycache__/
+
 # 数据与输出
 data/*.csv
-submission.csv
+submission*.csv
 figures/
+artifacts/
 
 # 系统
 Thumbs.db
 .DS_Store
+
+
